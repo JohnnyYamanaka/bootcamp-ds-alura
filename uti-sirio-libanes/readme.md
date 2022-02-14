@@ -14,9 +14,9 @@ Vamos mergulhar no conjunto de dataset do [hospital Sírio-Libanês](https://www
 A estrutura do projeto da seguinte forma:
 * Pasta dados, contendo os dados originais, retirados do Kaggle e os dados tratados para análise e treinamento;
 * Pasta contendo os notebooks:
-  * `limpeza-dos-dados.ipynb`: seção que aborda a limpeza e tratamento dos dados;
-  * `analise-de-dados.ipynb`: seção com a análise exploratória dos dados tratados;
-  * `treinamento-modelo.ipynb`: seção com o desenvolvimento dos modelos.
+  * [`limpeza-dos-dados.ipynb`](notebooks/limpeza-dos-dados.ipynb): seção que aborda a limpeza e tratamento dos dados;
+  * [`analise-de-dados.ipynb`](notebooks/analise-de-dados.ipynb): seção com a análise exploratória dos dados tratados;
+  * [`treinamento-modelo.ipynb`](notebooks/treinamento-modelo.ipynb): seção com o desenvolvimento dos modelos.
 
 ## :wrench: Desenvolvimento do Modelo  
 ### :floppy_disk: Modelos  
