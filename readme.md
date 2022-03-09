@@ -8,3 +8,4 @@ Repositório contendo os projetos desenvolvidos durante o bootcamp da Alura de d
 * [Analisando os dados do PNI](analisando-dados-pni) - Análise de dados do Programa Nacional de Imunização.
 * [Prevendo novos casos de covid](dados-covid-brasil-io) - Desenvolvimento de modelo para predição de novos casos de covid na cidade de São José dos Campos (SP)
 * [Hospital Sírio-Libanês - Prevendo leitos de UTI para COVID-19](uti-sirio-libanes) - Desenvolvimento de modelo para prever leitos de UTI no hospital Sírio-Libanês.
+* [Avaliação de Crédito](https://github.com/JohnnyYamanaka/avaliador-credito) - Avaliação de crédito de clientes utilizando streamlit.
